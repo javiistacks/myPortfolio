@@ -139,6 +139,10 @@ background image
     height: 250px;
 
 }
+.about-me-container img:hover {
+    opacity: 0.5;
+    transform-box: hello ;
+  }
 
 
 
