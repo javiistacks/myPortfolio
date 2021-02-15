@@ -99,6 +99,7 @@ nav ul li a {
 .hire-btn {
     border: 2px solid #373636
     color: #373636;
+    
 }
 
 .down-resume {
@@ -137,7 +138,9 @@ background image
 .about-me-container img {
     border: 5px solid #555;
     height: 250px;
+
 }
+
 
 
 /* about me text  */
@@ -258,7 +261,87 @@ background image
     text-align: center;  
     height: 200px;
    }
+/* below here i added for footer and social you can delete  */
+footer p{
+    font-family: calibri;
+   }
+   footer p:nth-child(1){
+    font-size: 30px;
+    font-weight:bold;
+    color:#191919;
+    line-height:10px;
+   }
+   footer p:nth-child(2){
+    font-size: 16px;
+    color:#7e7d7d;
+    width:600px;
+    text-align: center;
+   }
+   footer{
+    height:300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+   }
+   .social-icons a{
+    width:40px;
+    height:40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#e6e3e3;
+    margin:20px 10px;
+    border-radius:50%;
+   }
+   .social-icons{
+    display: flex;
+    
+   }
+   .social-icons i,.social i{
+    color:#000000;
+   }
+   .social-icons a:hover{
+    background-color:#000000;
+    box-shadow:2px 2px 12px rgba(0,0,0,0.2);
+    transition:all ease 0.5s;
+   }
+   .social-icons a:hover i,
+   .social a:hover i{
+    color:#FFFFFF;
+    transition:all ease 0.5s;
+   }
+    
+   .social {
+    position: fixed; 
+    top:50%;
+    right:0px;
+    transform:translateY(-50%);
+   }
+   .social a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:50px;
+    height:50px;
+    margin:0px;
+    padding: 0px;
+    line-height:0px;
+    background-color:#FFFFFF;
+    border:1px solid #CBCBCB;
+    box-shadow:2px 2px 12px rgba(0,0,0,0.2);
+   }
+   .social a:hover{
+    background-color:#000000;
+    transition:all ease 0.5s;
+   }
+   .social i{
+    font-size:20px;
+    color:#2B2B2B;
+   }
 
+/*  about text extra  */
 
 
 /* media viewss 1000*/
@@ -314,6 +397,19 @@ background image
     height:35px;
     width: 160px;
    }
+/* extra for contact me and footer */
+.contact-me{
+    height: 200px;
+   }
+   .contact-me p{
+    font-size: 26px;
+   }
+   .contact-me button{
+    font-size: 14px;
+    height:35px;
+    width: 160px;
+   }
+/* above extraaaaaaa */
 
 }
 
@@ -395,5 +491,23 @@ background image
         position: fixed;
         width: 90%;
        }
+/* extra things below */
+.contact-me{
+    height: 180px;
+   }
+   .contact-me p{
+    font-size: 18px;
+   }
+   .contact-me button{
+    width: 150px;
+    height: 33px;
+   }
+   footer p:nth-child(2){
+    width: 90%;
+   }
+
+   /* extra above */
+
+
 
 }
