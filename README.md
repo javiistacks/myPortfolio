@@ -1,0 +1,52 @@
+#HOMEOWORK 2 Portfolio
+
+myPortfolio
+
+<img src="images/readme1.png" width="550" height="400" >
+
+A. In the nav bar is a hyperlink when user click on "myPortfolio" it will direct user back to website.
+
+B. In the nav bar is a hyperlink when user click on "About Me" it will direct user to about me section on website.
+
+C. In the nav bar is a hyperlink when user click on "Work" it will direct user to work section on website.
+
+D. In the nav bar is a hyperlink when user click on "Contact Me" it will direct user to bottom of page where they can contact me via email and social media.
+
+E. In the nav bar is a hyperlink when user click on "Download Resume" it will ask user if they want to download my Resume and file will be downloaded and saved on user computer.
+
+F. This section is my sub heading in which i formally introduce myself to user.
+
+G. I made float box's for about me and work sections, this will help user visually see what they are looking for. Picture in all float boxes have opacity when user moves mouse over picture.
+
+I. Text and image will change according to user media screen. All images have alt attributes.
+
+J. Easy access to social media platforms that hovers on screen. Icons will direct user to my social media accounts in new webpage.
+
+
+<img src="images/readme2.png" width="550" height="400" >
+
+K. When user clicks on picture it will direct them to completed project in my github account. 
+
+L. When user clicks on picture it will direct them to my GitHub account in new a webpage.
+
+<img src="images/readme3.png" width="550" height="400" >
+
+M. Extra picture for upcoming projects.
+
+N. Extra picture for upcoming projects.
+
+<img src="images/readme4.png" width="550" height="400" >
+
+O. When user clicks on blue "Send Email" hyperlink it will navigate user to compose an email to me.
+
+P. Social Media footer.
+
+Q. All "Social Media" icons are working and will navigate user to my social media accounts on platforms Linkedin, Twitter, Instagram, and Facebook.
+
+<img src="images/iphone8.png" width="550" height="400" >
+
+I made website responsive to fit in an iphone 8 and iphone SE media screen.
+
+
+My Git hub profile : https://github.com/javiistacks
+Finished Product: https://javiistacks.github.io/myPortfolio/
