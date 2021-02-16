@@ -502,7 +502,7 @@ footer p{
         position: fixed;
         width: 90%;
        }
-/* extra things below */
+/* content and footer*/
 .contact-me{
     height: 180px;
    }
@@ -517,9 +517,10 @@ footer p{
     width: 90%;
    }
 }
-   /* extra above */
+   /* extra below*/
 
-   @media screen and (max-width:480px){
+   @media screen and (
+   max-width:480px){
     header{
      background-image:none;
      background-color:#f7f7f7;
@@ -533,6 +534,11 @@ footer p{
     .text-container {
      line-height: 40px;
      
+    }
+    .about-me-container img {
+        height: 50px;
+
+        
     }
     .about-me-container{
         top: 0px;
