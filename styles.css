@@ -528,19 +528,19 @@ footer p{
     /* .model{
      display: none;
     } */
-    .toggle{
+    /* .toggle{
      display: block;
     }
     .text-container {
      line-height: 40px;
      
-    }
+    } */
     .about-me-container img {
-        height: 50px;
+        height: 90px;
 
         
     }
-    .about-me-container{
+    /* .about-me-container{
         top: 0px;
         flex-direction: column;
         width:90%;
@@ -617,4 +617,4 @@ footer p{
    footer p:nth-child(2){
     width: 90%;
    }
-
+} */
