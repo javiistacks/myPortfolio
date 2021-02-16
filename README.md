@@ -20,7 +20,7 @@ G. I made float box's for about me and work sections, this will help user visual
 
 I. Text and image will change according to user media screen. All images have alt attributes.
 
-J. Easy access to social media platforms that hovers on screen. Icons will direct user to my social media accounts in new webpage.
+J. Easy access to social media platforms that hovers on screen. Icons will direct user to my social media accounts in new webpage. Icons will interact when user hovers mouse over social media icon.
 
 
 <img src="images/readme2.png" width="550" height="400" >
@@ -41,7 +41,7 @@ O. When user clicks on blue "Send Email" hyperlink it will navigate user to comp
 
 P. Social Media footer.
 
-Q. All "Social Media" icons are working and will navigate user to my social media accounts on platforms Linkedin, Twitter, Instagram, and Facebook.
+Q. All "Social Media" icons are working and will navigate user to my social media accounts on platforms Linkedin, Twitter, Instagram, and Facebook. Icons will interact when user hovers mouse over social media icon.
 
 <img src="images/iphone8.png" width="550" height="400" >
 
