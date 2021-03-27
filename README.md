@@ -1,5 +1,12 @@
 #HOMEOWORK 2 Portfolio
 
+[![Generic badge](https://img.shields.io/badge/license-MIT-<COLOR>.svg)](#license)
+![GitHub language count](https://img.shields.io/github/languages/count/javiistacks/myPortfolio)
+![GitHub top language](https://img.shields.io/github/languages/top/javiistacks/myPortfolio)
+
+
+
+
 myPortfolio
 
 <img src="images/readme1.png" width="550" height="400" >
